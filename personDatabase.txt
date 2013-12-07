@@ -1,0 +1,36 @@
+#-1
+unlocked
+Person
+Brady E Awesome
+123 Awesome St%Awesome Town%USA%91910
+123-456-9010
+----------
+awesomeguy@somewhere.com
+
+Which Degree Program?
+What Year Are You In?
+
+
+
+
+
+
+Degree Type
+#0
+unlocked
+Undergrad Student
+Jim A NotAsCool
+123%Hometown%CANADA%NF
+567-123-1231
+----------
+jimisalrgiht@yes.com
+1987
+Medicine
+Year 3
+3.4
+100
+
+
+
+
+Degree Type
