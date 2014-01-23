@@ -36,6 +36,7 @@ public class PersonDatabaseGUI {
      */
     public void mainMenu() {
 
+        //JFrame
         final JFrame mainMenuFrame = new JFrame();
         //JPanel
         JPanel pnlMain = new JPanel();
